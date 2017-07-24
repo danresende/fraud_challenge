@@ -47,4 +47,5 @@ algorithm
 
 ### [Get the date here!](https://docs.google.com/spreadsheets/d/1TufF3QBHK8RsC06V0arvF3PwN3gfz5kg5eV6BjRxEjc/edit#gid=581816440)
 
-![data-summary](/Users/danielcmresende/Desktop/Fraud Challenge/data_summary.png)
+![data-summary](https://github.com/danresende/fraud_challenge/blob/master/data_summary.png)
+
